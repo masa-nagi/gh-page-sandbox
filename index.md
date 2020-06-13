@@ -1,3 +1,3 @@
 # 獅子の如く
-- [Tips](./tips.txt)
+- [Tips](./tips.md)
 - [Event](./event.txt)
